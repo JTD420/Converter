@@ -6,12 +6,12 @@ Download all the swf's with the download tool : C:\Tools\DownloadHabbo\Habbo_Dow
 
 for the first time you need to run the following in the console:
 
-Download Furniture
-Download Effects
-Download Icons
-Download Productdata
-Download Furnidata
-Download Texts
+Download Furniture</br>
+Download Effects</br>
+Download Icons</br>
+Download Productdata</br>
+Download Furnidata</br>
+Download Texts</br>
 Clothes
 
 # Step 2
