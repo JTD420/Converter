@@ -1,0 +1,7 @@
+C:\Camwijs\Download_Tool\bin\Debug\Habbo_Downloader.exe.config
+C:\Camwijs\Download_Tool\bin\Debug\Habbo_Downloader.exe
+C:\Camwijs\Download_Tool\obj\Debug\Habbo_Downloader.csproj.CoreCompileInputs.cache
+C:\Camwijs\Download_Tool\obj\Debug\Habbo_Downloader.exe
+C:\Camwijs\Download_Tool\obj\Debug\Habbo_Downloader.pdb
+C:\Camwijs\Download_Tool\bin\Debug\Habbo_Downloader.pdb
+C:\Camwijs\Download_Tool\obj\Debug\Habbo_Downloader.csprojAssemblyReference.cache
