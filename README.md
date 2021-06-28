@@ -15,8 +15,8 @@ Download Texts</br>
 Clothes
 
 # Step 2
-run the "c:\Tools\run.bat" this will confurt all the SWF / Config files to .nitro and .json for the config
-We already place the default and extra effects in "C:\Tools\asset_default" so this will be done automaticly.
+run the "c:\Tools\run.bat" this will confurt all the SWF / Config files to .nitro and .json for the config.</br>
+We already place the default and extra effects in "C:\Tools\asset_default" so this will be done automaticly.</br>
 
 And that's it you are ready to Rock !
 
