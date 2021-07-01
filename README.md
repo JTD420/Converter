@@ -1,7 +1,7 @@
 # Setup
-Place the files in C:\Tools
-make sure you got NPM installed : https://nodejs.org/en/download/
-run : C:\tools\FirstRun.bat this will install the Nitro confurter
+Place the files in C:\Tools</br>
+make sure you got NPM installed : https://nodejs.org/en/download/</br>
+run : C:\tools\FirstRun.bat this will install the Nitro confurter</br>
 
 # Step 1
 Download all the swf's with the download tool : C:\Tools\DownloadHabbo\Habbo_Downloader.exe
