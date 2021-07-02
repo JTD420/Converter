@@ -23,3 +23,5 @@ We already place the default and extra effects in "C:\Tools\asset_default" so th
 And that's it you are ready to Rock !
 
 * Please note this is for the default furniture only, all costums your on your own !
+
+Credits for the Confurter : Nitro Team https://discord.gg/yCXcMqrT
