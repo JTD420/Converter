@@ -1,6 +1,7 @@
 {
   "output.folder": "C:/Tools/ConfurtedFiles/",
   "flash.client.url": "",
+  "figuredata.load.url": "C:/Tools/DownloadHabbo/clothes/figuredata.xml",
   "furnidata.load.url": "C:/Tools/DownloadHabbo/files/furnidata_xml.xml",
   "productdata.load.url": "C:/Tools/DownloadHabbo/files/productdata.txt",
   "figuremap.load.url": "C:/Tools/DownloadHabbo/clothes/figuremap.xml",
@@ -19,7 +20,9 @@
   "convert.effectmap": "1",
   "convert.figure": "1",
   "convert.effect": "1",
+  "convert.figuredata": "1",
   "convert.furniture": "1",
-  "convert.pet": "1"
-}
+  "convert.pet": "1",
+  "misc.log_download_urls": "0"
+  }
 

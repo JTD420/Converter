@@ -3,29 +3,25 @@ import { Configuration } from '../../common/config/Configuration';
 import { FileUtilities } from '../../utils/FileUtilities';
 
 @singleton()
-export class ExternalTextsDownloader
+export class FigureDataDownloader
 {
     constructor(private readonly _configuration: Configuration)
     {}
 
     public async download(callback: (content: string) => Promise<void>): Promise<void>
     {
-        const productData = await this.parseExternalTexts();
+        const figureData = await this.parseFigureData();
 
-        if(!productData) throw new Error('invalid_external_texts');
+        if(!figureData) throw new Error('invalid_figure_data');
 
-        callback(productData);
+        callback(figureData);
     }
 
-    public async parseExternalTexts(): Promise<string>
+    public async parseFigureData(): Promise<string>
     {
-        const url = this._configuration.getValue('external.texts.url');
+        const url = this._configuration.getValue('figuredata.load.url');
 
         if(!url || !url.length) return null;
-
-        const logDownloads = this._configuration.getBoolean('misc.log_download_urls');
-
-        if(logDownloads) console.log(`<Downloader> Downloading external texts from ${url}`);
 
         const content = await FileUtilities.readFileAsString(url);
 
