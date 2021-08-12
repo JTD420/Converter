@@ -1,7 +1,7 @@
 # Setup
 Place the files in C:\Tools</br>
 make sure you got NPM installed : https://nodejs.org/en/download/</br>
-run : C:\tools\FirstRun.bat this will install the Nitro confurter</br>
+run : C:\tools\FirstRun.bat this will install the Nitro converter</br>
 
 # Step 1
 Download all the swf's with the download tool : C:\Tools\DownloadHabbo\Habbo_Downloader.exe
@@ -24,4 +24,4 @@ And that's it you are ready to Rock !
 
 * Please note this is for the default furniture only, all costums your on your own !
 
-Credits for the Confurter : Nitro Team https://discord.gg/yCXcMqrT
+Credits for the Converter : Nitro Team https://discord.gg/yCXcMqrT

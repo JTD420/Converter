@@ -6,7 +6,7 @@
   "productdata.load.url": "C:/Tools/DownloadHabbo/files/productdata.txt",
   "figuremap.load.url": "C:/Tools/DownloadHabbo/clothes/figuremap.xml",
   "effectmap.load.url": "C:/Tools/asset_default/effectmap.xml",
-  "dynamic.download.pet.url": "C:/Tools/DownloadHabbo/hof_furni/%className%.swf",
+  "dynamic.download.pet.url": "C:/Tools/asset_default/Pets/%className%.swf",
   "dynamic.download.figure.url": "C:/Tools/DownloadHabbo/clothes/%className%.swf",
   "dynamic.download.effect.url": "C:/Tools/asset_default/Effects/%className%.swf",
   "flash.dynamic.download.url": "",
