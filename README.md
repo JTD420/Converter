@@ -25,3 +25,11 @@ And that's it you are ready to Rock !
 * Please note this is for the default furniture only, all costums your on your own !
 
 Credits for the Converter : Nitro Team https://discord.gg/yCXcMqrT
+
+# Errors when starting the converter
+If there are problems with the converter you can try the following.
+- Start and CMD prompt
+- cd C:\Tools
+- npm i
+- npm audit
+- npm start
