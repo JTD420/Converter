@@ -1,4 +1,4 @@
 @echo off
-cd c:\Tools\Confurt
+cd c:\Tools\Convert
 npm i
 exit
