@@ -29,7 +29,7 @@ Credits for the Converter : Nitro Team https://discord.gg/yCXcMqrT
 # Errors when starting the converter
 If there are problems with the converter you can try the following.
 - Start and CMD prompt
-- cd C:\Tools
+- cd C:\Tools\Convert
 - npm i
 - npm audit
 - npm run start
