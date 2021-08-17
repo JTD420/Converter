@@ -32,4 +32,4 @@ If there are problems with the converter you can try the following.
 - cd C:\Tools
 - npm i
 - npm audit
-- npm start
+- npm run start
