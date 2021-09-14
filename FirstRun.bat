@@ -1,4 +1,4 @@
 @echo off
-cd c:\Tools\Convert
+cd D:\Tools\Convert
 npm i
 exit
